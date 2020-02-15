@@ -5,21 +5,20 @@
     <url>/2020/02/14/hjkshcu/</url>
     <content><![CDATA[<h2 id="参考链接：markdown基本语法"><a href="#参考链接：markdown基本语法" class="headerlink" title="参考链接：markdown基本语法"></a>参考链接：<span class="exturl" data-url="aHR0cHM6Ly93d3cuY3MzY3g0Zy5jbi8yMDE4LzEyLzA4L21hcmtkb3duJUU1JTlGJUJBJUU2JTlDJUFDJUU4JUFGJUFEJUU2JUIzJTk1Lw==" title="https://www.cs3cx4g.cn/2018/12/08/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/">markdown基本语法<i class="fa fa-external-link"></i></span></h2><h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><p>在想要设置为标题的文字前面加#来表示<br>一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。<br>注：标准语法一般在#后跟个空格再写文字，hexo必须加空格，不然没法识别。<br>示例：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># 这是一级标题</span><br><span class="line">## 这是二级标题</span><br><span class="line">### 这是三级标题</span><br></pre></td></tr></table></figure>
-
-<h2 id=""><a href="#" class="headerlink" title=""></a><img data-src="http://q5p15xkqx.bkt.clouddn.com/show_title.png" alt=""></h2><h1 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h1><p><strong>这是加粗的文字</strong><br><em>这是倾斜的文字</em><br><strong><em>这是斜体加粗的文字</em></strong><br><del>这是加删除线的文字</del></p>
+<a id="more"></a>
+<h2 id=""><a href="#" class="headerlink" title=""></a><img data-src="http://q5p15xkqx.bkt.clouddn.com/show_title.png" alt=""></h2><h1 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">**这是加粗的文字**</span><br><span class="line">*这是倾斜的文字*</span><br><span class="line">***这是斜体加粗的文字***</span><br><span class="line">~~这是加删除线的文字~~</span><br></pre></td></tr></table></figure>
+<p><strong>这是加粗的文字</strong><br><em>这是倾斜的文字</em><br><strong><em>这是斜体加粗的文字</em></strong><br><del>这是加删除线的文字</del></p>
 <hr>
-<h1 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h1><blockquote>
+<h1 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&gt; 这是引用的内容</span><br><span class="line">&gt; * 这是引用的内容</span><br></pre></td></tr></table></figure>
+<blockquote>
 <p>这是引用的内容</p>
 <ul>
 <li>这是引用的内容</li>
 </ul>
 </blockquote>
 <hr>
-<h1 id="引用图片"><a href="#引用图片" class="headerlink" title="引用图片"></a>引用图片</h1><blockquote>
-<blockquote>
-<p><img data-src="%E5%9B%BE%E7%89%87%E5%9C%B0%E5%9D%80" alt="替代文字"><br><img data-src="http://q5p15xkqx.bkt.clouddn.com/01e05e58ce11e1a801219c77d363ef.jpg" alt=""></p>
-</blockquote>
-</blockquote>
+<h1 id="引用图片"><a href="#引用图片" class="headerlink" title="引用图片"></a>引用图片</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&gt; &gt; ![替代文字](图片地址)</span><br></pre></td></tr></table></figure>
+<p><img data-src="http://q5p15xkqx.bkt.clouddn.com/01e05e58ce11e1a801219c77d363ef.jpg" alt=""></p>
 ]]></content>
       <categories>
         <category>写作</category>
