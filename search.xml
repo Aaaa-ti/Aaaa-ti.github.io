@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>战疫</title>
+    <url>/2020/02/25/%E6%88%98%E7%96%AB/</url>
+    <content><![CDATA[<h3 id="疫情志愿者"><a href="#疫情志愿者" class="headerlink" title="疫情志愿者"></a>疫情志愿者</h3><a id="more"></a>
+
+<hr>
+<h2 id="实践目的"><a href="#实践目的" class="headerlink" title="实践目的"></a>实践目的</h2><p>在这个日益发展的现代化时代，作为大学生我们有社会的责任与使命。为了与时代紧密联系，我们应当走向社会、接触社会、了解社会，学会做人、学会做事，增强社会责任感，培养并提高社会交往、组织管理能力。同时，在这疫情当下，全国人民众志成城参与抗疫的阶段，作为大学生，我们也应当向公众传递一些正能量，积极参与到抗疫行列中。</p>
+<h2 id="实践背景"><a href="#实践背景" class="headerlink" title="实践背景"></a>实践背景</h2><p>每天在手机上关注抗疫新闻，从武汉爆发肺炎疫情以来，全国各地医务人员、人民解放军奔赴武汉，在一线抗击肺炎疫情。罹患渐冻症依旧日夜操劳的张定宇院长，减掉了一头长发的护士们，自发运送物资去武汉的外省村民，社区的大妈，传达最新咨询的记者……正如央视朗诵里面所说，一个个“勇敢牺牲的样子”，“不顾安危救人的样子”，“模糊但依旧坚定的样子”，是中国的样子。</p>
+<p>我也特别想为这次疫情做些什么，但似乎并没有什么我能帮上忙。村上村树说：“慢性的无力感是会腐蚀人的。”看着那些倒下的人，感染的人，我似乎什么都做不了。</p>
+<p>后来社区临时党支部招募志愿者，国家电网也需要志愿者去宣传网上缴费，避免大家不必要的外出，我曾经有当志愿者的经验，或许能帮上忙，便报名参加了。</p>
+<h2 id="实践过程"><a href="#实践过程" class="headerlink" title="实践过程"></a>实践过程</h2><blockquote>
+<ul>
+<li>临时党支部招聘（国网无）</li>
+<li>报名</li>
+<li>填写信息</li>
+<li>工作</li>
+</ul>
+</blockquote>
+<p>![cmd-markdown-logo](<img data-src="http://q5p15xkqx.bkt.clouddn.com/1c5d36544f71a5cbb0f3da3e257d708.jpg"/>)</p>
+<h2 id="实践内容"><a href="#实践内容" class="headerlink" title="实践内容"></a>实践内容</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> 检查来往人员是否发烧，从哪里来，要去哪里，是否符合规定，并登记在册</li>
+<li><input checked="" disabled="" type="checkbox"> 年长老人如果不会写字的话，由我负责代写</li>
+<li><input checked="" disabled="" type="checkbox"> 为来往的人（尤其是没有带口罩的人）普及疫情防控知识，并督促他们戴口）</li>
+<li><input checked="" disabled="" type="checkbox"> 发放附近人员去超市或者菜市场的通行票（只有有票才能进入超市和菜市场），并且登记在册。</li>
+</ul>
+<h2 id="实践心得"><a href="#实践心得" class="headerlink" title="实践心得"></a>实践心得</h2><p>这次实践在一定程度上加强了当地人们对有关疫情工作的普及，同时也提高了人们的防范意识，让原本不重视此次疫情的人重视起来，自觉带好口罩。同时，超市与菜市场通行证的发放，也在一定程度上保证了人民出行的便利与有序，方便人们家常生活的开展。</p>
+<p>（只是为了记录一下生活）</p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>武汉</tag>
+        <tag>Fighting</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>markdown基本语法</title>
     <url>/2020/02/14/hjkshcu/</url>
     <content><![CDATA[<h2 id="参考链接：markdown基本语法"><a href="#参考链接：markdown基本语法" class="headerlink" title="参考链接：markdown基本语法"></a>参考链接：<span class="exturl" data-url="aHR0cHM6Ly93d3cuY3MzY3g0Zy5jbi8yMDE4LzEyLzA4L21hcmtkb3duJUU1JTlGJUJBJUU2JTlDJUFDJUU4JUFGJUFEJUU2JUIzJTk1Lw==" title="https://www.cs3cx4g.cn/2018/12/08/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/">markdown基本语法<i class="fa fa-external-link"></i></span></h2><h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><p>在想要设置为标题的文字前面加#来表示<br>一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。<br>注：标准语法一般在#后跟个空格再写文字，hexo必须加空格，不然没法识别。<br>示例：</p>
